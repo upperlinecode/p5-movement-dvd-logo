@@ -15,9 +15,10 @@ Note: If you are coding along with the video, we suggest you open the video in a
 
 
 #### Using this template, you will be able to practice the following:
-- conditional statements
-- variables
-- objects
+- Using conditional statements.
+- Image functions: loadImage() and Image().
+- JavaScript objects.
+- Incrementing values.
 
 
 #### Get Started:
